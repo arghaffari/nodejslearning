@@ -1,0 +1,25 @@
+{
+  "name": "airlinetrack",
+  "version": "1.0.0",
+  "description": "This package will track the airlines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softiran/nodejslearning.git"
+  },
+  "keywords": [
+    "learning",
+    "nodejs",
+    "test",
+    "airlines"
+  ],
+  "author": "Alireza Ghaffari, ghafari.pro@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softiran/nodejslearning/issues"
+  },
+  "homepage": "https://github.com/softiran/nodejslearning#readme"
+}
